@@ -8,7 +8,7 @@ The secret pin is stored in string.xml file
 ```
 ### Hardcoding Secrets 
 The secret code is stored in the source code in EmbeddedSecretStrings class
-![image](https://github.com/user-attachments/assets/fd1755da-543d-4ea7-816b-bb5947640fa6)
+![image](https://github.com/user-attachments/assets/ae594a02-3233-4c93-974b-301ad3709fe3)
 
 Second,
 
@@ -31,7 +31,8 @@ We found the flag in this file
 ```
 ### External Storage 
 We found it in the source code 
-![image](https://github.com/user-attachments/assets/c634ffdd-69f6-4509-b807-c626366b11fe)
+![image](https://github.com/user-attachments/assets/04086a5a-bcd4-4d9e-97af-387ecb0c076b)
+
 ### SQLite Database 
 SQLite in Android is a lightweight database engine used for managing structured data in applications.
 ```Bash
